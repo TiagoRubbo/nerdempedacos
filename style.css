@@ -46,7 +46,14 @@ footer{
     bottom: 0;
     width: 100%;
 }
-
+footer p {
+    margin: 0;
+    font-size: 17px;
+}
+footer a {
+    color: #00c853;
+    text-decoration: none;
+}
 
 
 
