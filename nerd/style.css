@@ -3,14 +3,15 @@
     padding: 0px;
 }
 
-
-div{
+/*cores da página do youtube, principais possibilidades para página */
+div{ 
+    /*foto de perfil*/
     color: #b59c71;
     color: #16b8ee;
     color: #0700a1;
     color: #093a8c;
     color: #1e1753;
-
+    /*banner*/
     color: #06001b;
     color: #06cbe4;
     color: #04084f;
