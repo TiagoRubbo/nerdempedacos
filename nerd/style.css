@@ -3,9 +3,24 @@
     padding: 0px;
 }
 
+
+div{
+    color: #b59c71;
+    color: #16b8ee;
+    color: #0700a1;
+    color: #093a8c;
+    color: #1e1753;
+
+    color: #06001b;
+    color: #06cbe4;
+    color: #04084f;
+    color: #766b86;
+    color: #64d9e5;
+}
+
 header{
-    background-color: #333;
-    color: #fff;
+    background-color: #04084f;
+    color: #b59c71;
     padding: 10px 0;
     text-align: center;
 }
@@ -29,16 +44,26 @@ nav ul li a {
 
 body{
     font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
-    color: #333;
+    background-color: #06001b;
+    color: #766b86;
+}
+a:hover{
+    color: #06cbe4;
+}
+a::after{
+    color: #04084f;
+}
+main{
+    max-width: 1000px;
+    min-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
 }
 
 
 
-
-
 footer{
-    background-color: #333;
+    background-color: #06001b;
     color: #fff;
     text-align: center;
     padding: 20px 0;
