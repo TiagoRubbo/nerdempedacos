@@ -45,7 +45,7 @@ nav ul li a {
 body{
     font-family: Arial, sans-serif;
     background-color: #06001b;
-    color: #766b86;
+    color: floralwhite;
 }
 a:hover{
     color: #06cbe4;
@@ -57,11 +57,18 @@ main{
     max-width: 1000px;
     min-width: 500px;
     margin: 0 auto;
-    padding: 20px;
+    padding: 20px 0px;
+    background-color: #1e1753;
 }
-
-
-
+section{
+    margin: 20px 2px;
+    padding: 10px 0px;
+    border: 1px solid #b59c71;
+    background-color: #b59c71;
+    border-radius: 10px;
+    max-width: 950px;
+    min-width: 450px;
+}
 footer{
     background-color: #06001b;
     color: #fff;
